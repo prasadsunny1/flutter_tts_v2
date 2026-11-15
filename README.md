@@ -1,3 +1,5 @@
+> **Fork notice:** `flutter_tts_v2` is a fork of [dlutton/flutter_tts](https://github.com/dlutton/flutter_tts) (MIT) that adds Swift Package Manager support for iOS and macOS, based on [PR #651](https://github.com/dlutton/flutter_tts/pull/651). The Dart API is unchanged: replace the dependency and import `package:flutter_tts_v2/flutter_tts.dart`.
+
 # Text To Speech
 
 [![pub package](https://img.shields.io/pub/v/flutter_tts.svg?style=for-the-badge&colorB=green)](https://pub.dartlang.org/packages/flutter_tts)

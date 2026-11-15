@@ -1,3 +1,8 @@
+## 4.3.0-v2
+
+* Fork of `flutter_tts`, published as `flutter_tts_v2`, based on dlutton/flutter_tts#651 (Swift Package Manager support for iOS and macOS, by shivanshu877).
+* Rename the package, the Swift package and the podspecs to `flutter_tts_v2`.
+
 # ChangeLog
 
 ## 4.3.0

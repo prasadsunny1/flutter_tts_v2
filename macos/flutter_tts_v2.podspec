@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-    s.name             = 'flutter_tts'
+    s.name             = 'flutter_tts_v2'
     s.version          = '0.0.1'
     s.summary          = 'macOS implementation of the flutter_tts plugin.'
     s.description      = <<-DESC
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     s.license          = { :file => '../LICENSE' }
     s.author           = { 'Daniel Lutton' => 'eyedea32@gmail.com' }
     s.source           = { :path => '.' }
-    s.source_files = 'flutter_tts/Sources/flutter_tts/**/*.swift'
+    s.source_files = 'flutter_tts_v2/Sources/flutter_tts_v2/**/*.swift'
     s.dependency 'FlutterMacOS'
   
     s.platform = :osx, '10.15'
